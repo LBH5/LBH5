@@ -55,7 +55,7 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building scalab
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LBH5&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naime5_Br&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LBH5&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
