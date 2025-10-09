@@ -1,7 +1,6 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=LBH5%20·%20Full‑Stack%20Developer&fontSize=36&fontAlign=50&fontAlignY=35&desc=.NET%20Core%20%7C%20JavaScript%20%7C%20APIs%20%7C%20DevOps&descAlign=50&descAlignY=55" alt="header"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=LBH5%20%C2%B7%20Full-Stack%20Developer%20%7C%20Data%20Analyst&fontSize=36&fontAlign=50&fontAlignY=35&desc=.NET%20Core%20%7C%20C%23%20%7C%20JavaScript%20%7C%20APIs%20%7C%20DevOps%20%7C%20Power%20BI%20%7C%20Excel%20%7C%20SQL%20%7C%20R&descAlign=50&descAlignY=55" alt="header"/>
+</div>
 
 <!-- Quick Links -->
 <p align="center">
