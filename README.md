@@ -22,16 +22,16 @@
 ---
 
 ### About
-Full‑stack developer focused on scalable backend APIs and sleek frontends with .NET Core and modern JavaScript frameworks, with a growing specialization in Data & BI for decision‑grade insights. [web:11]  
-Exploring microservices, CI/CD, DevOps, and AI integrations to ship reliable, maintainable systems with clean code and strong automation practices. [web:11]  
-Outside of code: tech blogging, occasional speaking, and a motorsport enthusiasm that fuels continuous learning and collaboration. [web:11]
+Full‑stack developer focused on scalable backend APIs and sleek frontends with .NET Core and modern JavaScript frameworks, with a growing specialization in Data & BI for decision‑grade insights.   
+Exploring microservices, CI/CD, DevOps, and AI integrations to ship reliable, maintainable systems with clean code and strong automation practices.
+Outside of code: tech blogging, occasional speaking, and a motorsport enthusiasm that fuels continuous learning and collaboration. 
 
 ---
 
 ### Highlights
-- Backend architecture with .NET and Node.js/NestJS; robust testing, caching, and background jobs for performance. [web:11]  
-- Frontend with React/Vue; component‑driven UIs, accessibility, and DX‑focused tooling for maintainability and speed. [web:11]  
-- Data & BI: Power BI modeling with DAX; ETL orchestration with dbt/Airflow; analytics with Pandas/NumPy/Seaborn and R. [web:11]
+- Backend architecture with .NET and Node.js/NestJS; robust testing, caching, and background jobs for performance.   
+- Frontend with React/Vue; component‑driven UIs, accessibility, and DX‑focused tooling for maintainability and speed.   
+- Data & BI: Power BI modeling with DAX; ETL orchestration with dbt/Airflow; analytics with Pandas/NumPy/Seaborn and R. 
 
 ---
 
@@ -59,10 +59,10 @@ Outside of code: tech blogging, occasional speaking, and a motorsport enthusiasm
 ---
 
 ### Data & BI
-- Business intelligence and reporting with Power BI, interactive dashboards, and DAX modeling for decision support. [web:11]  
-- Analytics workflows using Excel for exploration, cleaning, and stakeholder‑ready summaries and KPI sheets. [web:34]  
-- ETL pipelines with open‑source tools/orchestrators for batch and stream processing at scale. [web:28]  
-- Statistical analysis and visualization with Python and R across notebooks and productionized jobs. [web:25]
+- Business intelligence and reporting with Power BI, interactive dashboards, and DAX modeling for decision support.   
+- Analytics workflows using Excel for exploration, cleaning, and stakeholder‑ready summaries and KPI sheets. 
+- ETL pipelines with open‑source tools/orchestrators for batch and stream processing at scale. 
+- Statistical analysis and visualization with Python and R across notebooks and productionized jobs.
 
 <p>
   <!-- BI -->
@@ -90,9 +90,9 @@ Outside of code: tech blogging, occasional speaking, and a motorsport enthusiasm
 ---
 
 ### Projects
-- API‑first services with .NET/NestJS: authentication, RBAC, caching, and background jobs for performance. [web:11]  
-- Frontend dashboards with React/Vue: charts, filters, accessibility, and responsive layouts for data‑heavy workflows. [web:11]  
-- End‑to‑end BI pipeline: Airbyte ingestion → dbt transforms → Power BI semantic model and dashboards. [web:28]
+- API‑first services with .NET/NestJS: authentication, RBAC, caching, and background jobs for performance.   
+- Frontend dashboards with React/Vue: charts, filters, accessibility, and responsive layouts for data‑heavy workflows.   
+- End‑to‑end BI pipeline: Airbyte ingestion → dbt transforms → Power BI semantic model and dashboards.
 
 ---
 
@@ -115,8 +115,8 @@ Outside of code: tech blogging, occasional speaking, and a motorsport enthusiasm
 ---
 
 ### Contact
-- Email: brijja.naime5@gmail.com for collaboration, internships, or open‑source ideas. [web:11]  
-- LinkedIn: br-naime05 for professional networking and opportunities. [web:11]
+- Email: brijja.naime5@gmail.com for collaboration, internships, or open‑source ideas.   
+- LinkedIn: br-naime05 for professional networking and opportunities. 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer" alt="footer"/>
