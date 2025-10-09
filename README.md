@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=LBH5%20·%20Full‑Stack%20Developer&fontSize=36&fontAlign=50&fontAlignY=35&desc=.NET%20Core%20%7C%20JavaScript%20%7C%20APIs%20%7C%20DevOps&descAlign=50&descAlignY=55" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=LBH5%20·%20Full‑Stack%20Developer&fontSize=36&fontAlign=50&fontAlignY=35&desc=.NET%20Core%20%7C%20JavaScript%20%7C%20Data%20%26%20BI%20%7C%20DevOps&descAlign=50&descAlignY=55" alt="header"/>
 </p>
 
 <!-- Quick Links -->
@@ -23,16 +23,16 @@
 ---
 
 ### About
-Passionate full‑stack developer focused on scalable backend APIs and sleek frontends with .NET Core and JavaScript frameworks, blending solid architecture with hands‑on delivery. [web:18]  
-Exploring microservices, CI/CD, DevOps, and AI integrations to ship reliable, maintainable systems with clean code and automation. [web:18]  
-Outside code: tech blogging, occasional speaking, and a strong motorsport interest fuel continuous learning and collaboration. [web:18]
+Full‑stack developer focused on scalable backend APIs and sleek frontends with .NET Core and modern JavaScript frameworks, with a growing specialization in Data & BI for decision‑grade insights. [web:11]  
+Exploring microservices, CI/CD, DevOps, and AI integrations to ship reliable, maintainable systems with clean code and strong automation practices. [web:11]  
+Outside of code: tech blogging, occasional speaking, and a motorsport enthusiasm that fuels continuous learning and collaboration. [web:11]
 
 ---
 
 ### Highlights
-- Backend architecture with .NET, Node.js/NestJS, and PostgreSQL/MongoDB for robust, testable services. [web:18]  
-- Frontend with React/Vue, component‑driven UIs, and DX‑focused tooling for maintainability and speed. [web:18]  
-- DevOps with Docker and GitHub Actions for automated testing, builds, and deployments. [web:18]
+- Backend architecture with .NET and Node.js/NestJS; robust testing, caching, and background jobs for performance. [web:11]  
+- Frontend with React/Vue; component‑driven UIs, accessibility, and DX‑focused tooling for maintainability and speed. [web:11]  
+- Data & BI: Power BI modeling with DAX; ETL orchestration with dbt/Airflow; analytics with Pandas/NumPy/Seaborn and R. [web:11]
 
 ---
 
@@ -59,10 +59,41 @@ Outside code: tech blogging, occasional speaking, and a strong motorsport intere
 
 ---
 
+### Data & BI
+- Business intelligence and reporting with Power BI, interactive dashboards, and DAX modeling for decision support. [web:11]  
+- Analytics workflows using Excel for exploration, cleaning, and stakeholder‑ready summaries and KPI sheets. [web:34]  
+- ETL pipelines with open‑source tools/orchestrators for batch and stream processing at scale. [web:28]  
+- Statistical analysis and visualization with Python and R across notebooks and productionized jobs. [web:25]
+
+<p>
+  <!-- BI -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000000" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <!-- ETL / Orchestration -->
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/Airbyte-22B5FF?style=flat&logo=airbyte&logoColor=white" alt="Airbyte"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <!-- Python Data -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0C4B33?style=flat&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C9A2A?style=flat&logo=databricks&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Dask-FFCA00?style=flat&logo=dask&logoColor=000" alt="Dask"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="PySpark"/>
+  <!-- R -->
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Tidyverse-1A162D?style=flat&logo=r&logoColor=white" alt="tidyverse"/>
+</p>
+
+---
+
 ### Projects
-- API‑first services with .NET/NestJS: authentication, role‑based access, caching, and background jobs for performance. [web:18]  
-- Frontend dashboards with React/Vue: charts, filters, a11y, and responsive layouts for data‑heavy workflows. [web:18]  
-- Infra as code lite: Dockerized services, preview builds, and checks via GitHub Actions workflows. [web:6]
+- API‑first services with .NET/NestJS: authentication, RBAC, caching, and background jobs for performance. [web:11]  
+- Frontend dashboards with React/Vue: charts, filters, accessibility, and responsive layouts for data‑heavy workflows. [web:11]  
+- End‑to‑end BI pipeline: Airbyte ingestion → dbt transforms → Power BI semantic model and dashboards. [web:28]
 
 ---
 
@@ -85,8 +116,8 @@ Outside code: tech blogging, occasional speaking, and a strong motorsport intere
 ---
 
 ### Contact
-- Email: brijja.naime5@gmail.com for collaboration, internships, or open‑source ideas. [web:18]  
-- LinkedIn: br-naime05 for professional networking and opportunities. [web:18]
+- Email: brijja.naime5@gmail.com for collaboration, internships, or open‑source ideas. [web:11]  
+- LinkedIn: br-naime05 for professional networking and opportunities. [web:11]
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer" alt="footer"/>
