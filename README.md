@@ -111,7 +111,7 @@ Outside of code: tech writing, continuous learning, and a passion for motorsport
 
 ### Metrics
 <p align="center">
-  <img src="./generated/github-stats.svg" alt="GitHub stats" width="48%" />
+  <img src="./github-metrics.svg" alt="GitHub stats" width="100%" />
 </p>
 
 ---
