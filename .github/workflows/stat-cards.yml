@@ -2,12 +2,13 @@ name: Generate Readme Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment: METRICS #  Connects the workflow to your METRICS environment
     permissions:
       contents: write
     steps:
