@@ -111,18 +111,7 @@ Outside of code: tech writing, continuous learning, and a passion for motorsport
 
 ### Metrics
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LBH5&show_icons=true&hide_border=true&count_private=true&theme=github_dark">
-      <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LBH5&show_icons=true&hide_border=true&count_private=true&theme=default">
-    </picture>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LBH5&layout=compact&hide_border=true&theme=github_dark">
-      <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LBH5&layout=compact&hide_border=true&theme=default">
-    </picture>
-  </a>
+  <img src="./generated/github-stats.svg" alt="GitHub stats" width="48%" />
 </p>
 
 ---
