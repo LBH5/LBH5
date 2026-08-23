@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=LBH5%20%C2%B7%20Full-Stack%20Developer%20%7C%20Data%20Analyst&fontSize=36&fontAlign=50&fontAlignY=35&desc=.NET%20Core%20%7C%20C%23%20%7C%20JavaScript%20%7C%20APIs%20%7C%20DevOps%20%7C%20Power%20BI%20%7C%20Excel%20%7C%20SQL%20%7C%20R&descAlign=50&descAlignY=55" alt="header"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F7FD5&center=true&vcenter=true&width=600&lines=Software+Engineering+%26+BI+Graduate;Oracle+APEX+%7C+PL%2FSQL+%7C+.NET+Core;Building+Scalable+Enterprise+Systems" alt="Typing SVG" />
+  </a>
 </div>
 
 <!-- Quick Links -->
@@ -22,34 +24,44 @@
 ---
 
 ### About
-Full‑stack developer focused on scalable backend APIs and sleek frontends with .NET Core and modern JavaScript frameworks, with a growing specialization in Data & BI for decision‑grade insights.   
-Exploring microservices, CI/CD, DevOps, and AI integrations to ship reliable, maintainable systems with clean code and strong automation practices.
-Outside of code: tech blogging, occasional speaking, and a motorsport enthusiasm that fuels continuous learning and collaboration. 
+🎓 **Computer Engineering Graduate (Software Engineering & Business Intelligence at FSTE)**  
+Full-stack and database engineer focused on scalable backend architectures, enterprise systems, and interactive UI dashboards. Specialized in combining modern Web Frameworks (.NET Core, NestJS, Vue.js/Quasar) with deep relational data platforms (Oracle Database, PL/SQL, Oracle APEX) and decision-grade Business Intelligence.
+
+Exploring microservices, cloud containerization, CI/CD pipelines, and automated monitoring to ship reliable, production-ready systems with clean code practices.  
+Outside of code: tech writing, continuous learning, and a passion for motorsport telemetry and engineering.
 
 ---
 
 ### Highlights
-- Backend architecture with .NET and Node.js/NestJS; robust testing, caching, and background jobs for performance.   
-- Frontend with React/Vue; component‑driven UIs, accessibility, and DX‑focused tooling for maintainability and speed.   
-- Data & BI: Power BI modeling with DAX; ETL orchestration with dbt/Airflow; analytics with Pandas/NumPy/Seaborn and R. 
+- **Backend & APIs:** Systems development with .NET Core (C#) and Node.js/NestJS; implementing secure authentication, caching, and background job processing.
+- **Enterprise Databases & APEX:** High-performance PL/SQL query optimization, database modeling, and low-code enterprise applications using Oracle APEX.
+- **Frontend UIs:** Component-driven web applications with Vue.js, Quasar, and React; focused on responsive data dashboards and developer experience.
+- **Data & BI:** End-to-end data pipelines, DAX modeling in Power BI, ETL workflows, and statistical analyses using Python and R.
 
 ---
 
 ### Tech Stack
 <p>
   <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D&labelColor=35495E" alt="Vue"/>
+  <img src="https://img.shields.io/badge/Quasar-1976D2?logo=quasar&logoColor=white&labelColor=1976D2" alt="Quasar"/>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&labelColor=20232A" alt="React"/>
-  <img src="https://img.shields.io/badge/Vue-35495E?logo=vue.js&logoColor=4FC08D&labelColor=35495E" alt="Vue"/>
   <!-- Backend -->
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=white&labelColor=512BD4" alt=".NET Core"/>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&labelColor=239120" alt="C#"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&labelColor=339933" alt="Node.js"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&labelColor=E0234E" alt="NestJS"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&labelColor=3776AB" alt="Python"/>
-  <!-- Databases -->
+  <br/>
+  <!-- Enterprise Databases -->
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&labelColor=F80000" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/Oracle_APEX-F80000?logo=oracle&logoColor=white&labelColor=161513" alt="Oracle APEX"/>
+  <img src="https://img.shields.io/badge/PL/SQL-F80000?logo=oracle&logoColor=white&labelColor=161513" alt="PL/SQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&labelColor=336791" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&labelColor=4EA94B" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL"/>
-  <!-- DevOps -->
+  <br/>
+  <!-- DevOps & Tools -->
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&labelColor=2496ED" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&labelColor=2088FF" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&labelColor=007ACC" alt="VS Code"/>
@@ -59,10 +71,10 @@ Outside of code: tech blogging, occasional speaking, and a motorsport enthusiasm
 ---
 
 ### Data & BI
-- Business intelligence and reporting with Power BI, interactive dashboards, and DAX modeling for decision support.   
-- Analytics workflows using Excel for exploration, cleaning, and stakeholder‑ready summaries and KPI sheets. 
-- ETL pipelines with open‑source tools/orchestrators for batch and stream processing at scale. 
-- Statistical analysis and visualization with Python and R across notebooks and productionized jobs.
+- Interactive dashboards, KPI modeling, and reporting solutions built using Power BI and DAX.
+- Analytical workflows and automated data validation using SQL, PL/SQL, and Excel for executive reporting.
+- Pipeline orchestration and batch transformation using dbt, Airflow, and open-source ingestion tools.
+- Data science and statistical computing using Python (Pandas, NumPy, Seaborn, PySpark) and R (Tidyverse).
 
 <p>
   <!-- BI -->
@@ -90,9 +102,10 @@ Outside of code: tech blogging, occasional speaking, and a motorsport enthusiasm
 ---
 
 ### Projects
-- API‑first services with .NET/NestJS: authentication, RBAC, caching, and background jobs for performance.   
-- Frontend dashboards with React/Vue: charts, filters, accessibility, and responsive layouts for data‑heavy workflows.   
-- End‑to‑end BI pipeline: Airbyte ingestion → dbt transforms → Power BI semantic model and dashboards.
+- **Enterprise APEX & Database Analytics:** Custom activity monitoring dashboards, PL/SQL instrumentation, and query tuning.
+- **Microservices & REST APIs:** Clean Architecture web APIs built with .NET Core and NestJS, with OAuth2 authentication and Redis caching.
+- **Modern Web Interfaces:** Dynamic frontends utilizing Vue.js, Quasar Framework, and React for data-heavy management interfaces.
+- **End-to-End Data Pipeline:** Ingestion via Airbyte → Transformation with dbt → Analytics and reporting in Power BI.
 
 ---
 
@@ -115,8 +128,8 @@ Outside of code: tech blogging, occasional speaking, and a motorsport enthusiasm
 ---
 
 ### Contact
-- Email: brijja.naime5@gmail.com for collaboration, internships, or open‑source ideas.   
-- LinkedIn: br-naime05 for professional networking and opportunities. 
+- Email: brijja.naime5@gmail.com for engineering opportunities, technical projects, or open-source collaboration.
+- LinkedIn: [br-naime05](https://www.linkedin.com/in/br-naime05) for professional networking.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer" alt="footer"/>
